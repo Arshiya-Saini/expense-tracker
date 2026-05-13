@@ -1,0 +1,14 @@
+{
+  "incomes": [],
+  "expenses": [],
+  "users": [
+    {
+      "_id": "6ade0064-87ad-4392-96ef-e9dd13d86c97",
+      "name": "Arshiya Saini",
+      "email": "arshiyasaini8@gmail.com",
+      "passwordHash": "b792df700afba1129fd8e3f54ed23fd1:f01cb732e3d2a7b30fd3549acbd084c3d380597b3f8f1d918f505670a59e29a688ac6210de8f4a17f31e16c23281b0cbf744ee6b56a1ae24a6a6258fb0ac6265",
+      "createdAt": "2026-05-13T09:27:17.184Z",
+      "token": "b5b334e0de723b22d23e580ececed113dc726787caaa1fb584183c47066ce20c"
+    }
+  ]
+}

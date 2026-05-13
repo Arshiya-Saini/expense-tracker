@@ -6,31 +6,32 @@ import {
   Film, Wifi, Heart
 } from "lucide-react";
 
+// Modern, professional color palette with excellent contrast
 export const GAUGE_COLORS = {
   Income: { 
-    gradientStart: '#0d9488',
-    gradientEnd: '#0f766e',
-    text: 'text-teal-600',
-    bg: 'bg-teal-100'
+    gradientStart: '#10b981',  // Emerald green
+    gradientEnd: '#059669',
+    text: 'text-emerald-600',
+    bg: 'bg-emerald-50'
   },
   Spent: { 
-    gradientStart: '#f97316',
-    gradientEnd: '#ea580c',
-    text: 'text-orange-600',
-    bg: 'bg-orange-100'
+    gradientStart: '#ef4444',  // Vibrant red
+    gradientEnd: '#dc2626',
+    text: 'text-red-600',
+    bg: 'bg-red-50'
   },
   Savings: { 
-    gradientStart: '#0891b2',
-    gradientEnd: '#0e7490',
-    text: 'text-cyan-600',
-    bg: 'bg-cyan-100'
+    gradientStart: '#3b82f6',  // Bright blue
+    gradientEnd: '#1d4ed8',
+    text: 'text-blue-600',
+    bg: 'bg-blue-50'
   }
 };
 
-export const COLORS = ['#0d9488', '#0f766e', '#0891b2', '#0e7490', '#f97316', '#ea580c', '#14b8a6'];
+export const COLORS = ['#10b981', '#059669', '#3b82f6', '#1d4ed8', '#ef4444', '#dc2626', '#f59e0b'];
 
 export const INCOME_COLORS = [
-  '#10b981', '#34d399', '#6ee7b7', '#a7f3d0', '#d1fae5'
+  '#10b981', '#34d399', '#6ee7b7', '#059669', '#047857'
 ];
 
 export const CATEGORY_ICONS_Inc = {
